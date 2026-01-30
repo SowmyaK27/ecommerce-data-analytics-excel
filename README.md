@@ -35,7 +35,7 @@ This dashboard helps stakeholders understand:
 ---
 
 🖼 Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](Ecommerce_Sales_Dashboard.png)
 
 ---
 
