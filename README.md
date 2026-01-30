@@ -65,6 +65,7 @@ To analyze E-commerce sales data and provide **actionable business insights** us
 
 📬 Contact:
 Name: K Sowmya  
-Role: Aspiring Data Analyst  
+Role: Aspiring Data Analyst
+Mail id:sowmya.dataa@gmail.com
 GitHub: https://github.com/SowmyaK27  
 LinkedIn : https://www.linkedin.com/in/sowmya-k-bab694355/
