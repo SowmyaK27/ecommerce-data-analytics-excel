@@ -34,8 +34,11 @@ This dashboard helps stakeholders understand:
 
 ---
 
-🖼 Dashboard Preview
-![Dashboard Preview](Ecommerce_Sales_Dashboard.png)
+📂 Project Files
+- 📊 **Excel Dashboard File:** `ecommerce_sales_data.xls`
+- 🖼 **Dashboard Preview Image:** `Ecommerce_Sales_Dashboard.png`
+
+> Download the Excel file to explore the interactive dashboard using slicers and pivot tables.
 
 ---
 
